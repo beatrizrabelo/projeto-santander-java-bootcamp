@@ -1,11 +1,6 @@
-# java-basico-terminal
+# terminal
 **Desáfio:** Simulando uma Conta Bancária Através do Terminal
 
-## Conhecimento:
-* Lógica de Programação e POO;
-* Java Básico;
-* Utilizando o Windows 10;
-* Visual Studio Code;
 
 ###### É possível executar através do argumento do método:
 1. Argumento:     
